@@ -164,7 +164,7 @@ body {
 .advantages-list div:first-child::before {
     content: "";
     position:absolute;
-    background-image: url("/image/img/topicon1.svg");
+    background-image: url("../image/img/topicon1.svg");
     background-repeat: no-repeat;
     width: 82px;
     height: 52px;
@@ -175,7 +175,7 @@ body {
 .advantages-list div:nth-child(2)::before {
     content: "";
     position:absolute;
-    background-image: url("/image/img/topicon2.svg");
+    background-image: url("../image/img/topicon2.svg");
     background-repeat: no-repeat;
     width: 52px;
     height: 52px;
@@ -185,7 +185,7 @@ body {
 .advantages-list div:nth-child(3)::before {
     content: "";
     position:absolute;
-    background-image: url("/image/img/topicon3.svg");
+    background-image: url("../image/img/topicon3.svg");
     background-repeat: no-repeat;
     width: 59px;
     height: 52px;
@@ -314,7 +314,7 @@ body {
 }
 
 .slider-back{
-    background-image: url("/image/img/Arrow1.svg");
+    background-image: url("../image/img/Arrow1.svg");
     background-repeat: no-repeat;
     background-color: #FFFFFF;
     width: 55px;
@@ -322,7 +322,7 @@ body {
 }
 
 .slider-forward{
-    background-image: url("/image/img/Arrow2.svg");
+    background-image: url("../image/img/Arrow2.svg");
     background-repeat: no-repeat;
     background-color: #FFFFFF;
     width: 55px;
@@ -357,15 +357,15 @@ body {
 
 .catalog-preview ul li:nth-child(1){
     background:
-    url("/image/file/wedding_bouquets.png")  no-repeat;
+    url("../image/file/wedding_bouquets.png")  no-repeat;
 }
 
 .catalog-preview ul li:nth-child(2){
-    background:url("/image/file/bouquets_with_peonies.png") no-repeat;
+    background:url("../image/file/bouquets_with_peonies.png") no-repeat;
 }
 
 .catalog-preview ul li:nth-child(3){
-    background:url("/image/file/choose_a_bouquet.png") no-repeat;
+    background:url("../image/file/choose_a_bouquet.png") no-repeat;
     
 }
 
@@ -496,7 +496,7 @@ body {
 .order-steps ul li:nth-child(1)::before {
     content: "";
     position: absolute;
-    background-image: url("/image/img/boticon1.svg");
+    background-image: url("../image/img/boticon1.svg");
     background-repeat: no-repeat;
     width: 66.08px;
     height: 52px;
@@ -507,7 +507,7 @@ body {
 .order-steps ul li:nth-child(2)::before {
     content: "";
     position: absolute;
-    background-image: url("/image/img/boticon2.svg");
+    background-image: url("../image/img/boticon2.svg");
     background-repeat: no-repeat;
     width: 37.49px;
     height: 52px;
@@ -518,7 +518,7 @@ body {
 .order-steps ul li:nth-child(3)::before {
     content: "";
     position: absolute;
-    background-image: url("/image/img/boticon3.svg");
+    background-image: url("../image/img/boticon3.svg");
     background-repeat: no-repeat;
     width: 69.93px;
     height: 52px;
@@ -529,7 +529,7 @@ body {
 .order-steps ul li:nth-child(4)::before {
     content: "";
     position: absolute;
-    background-image: url("/image/img/boticon4.svg");
+    background-image: url("../image/img/boticon4.svg");
     background-repeat: no-repeat;
     width: 82.21px;
     height: 52px;
@@ -594,21 +594,21 @@ body {
 }
 
 .news ul li:nth-child(1) {
-    background-image: url("/image/img/instagram_icon.svg");
+    background-image: url("../image/img/instagram_icon.svg");
     background-repeat: no-repeat;
     width: 20.2px;
     height: 20px;
 }
 
 .news ul li:nth-child(2) {
-    background-image: url("/image/img/facebook_icon.svg");
+    background-image: url("../image/img/facebook_icon.svg");
     background-repeat: no-repeat;
     width: 11.5px;
     height: 20px;
 }
 
 .news ul li:nth-child(3) {
-    background-image: url("/image/img/twitter_icon.svg");
+    background-image: url("../image/img/twitter_icon.svg");
     background-repeat: no-repeat;
     width: 25.76px;
     height: 20px;
@@ -786,7 +786,7 @@ body {
 }
 
 .footer-navigation ul:nth-of-type(2) li:nth-child(1) {
-    background-image: url("/image/img/instagram_icon_footer.svg");
+    background-image: url("../image/img/instagram_icon_footer.svg");
     background-repeat: no-repeat;
     color:#FFFFFF;
     width: 20.2px;
@@ -795,14 +795,14 @@ body {
 }
 
 .footer-navigation ul:nth-of-type(2) li:nth-child(2) {
-    background-image: url("/image/img/facebook_icon_footer.svg");
+    background-image: url("../image/img/facebook_icon_footer.svg");
     background-repeat: no-repeat;
     width: 11.5px;
     height: 20px;
 }
 
 .footer-navigation ul:nth-of-type(2) li:nth-child(3) {
-    background-image: url("/image/img/twitter_icon_footer.svg");
+    background-image: url("../image/img/twitter_icon_footer.svg");
     background-repeat: no-repeat;
     width: 25.76px;
     height: 20px;
